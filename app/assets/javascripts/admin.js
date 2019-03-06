@@ -1,3 +1,4 @@
+
 // This is a manifest file that'll be compiled into application.js, which will include all the files
 // listed below.
 //
@@ -13,7 +14,5 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require alert_maker
-//= require main
-//= require admin
-//= require wrong_place_wrong_time
+//= require hello_world
+//= require doesn_nothing
